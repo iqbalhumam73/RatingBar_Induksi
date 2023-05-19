@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rating Bar Induksi</string>
+    <string name="default_title">Beri Rating!</string>
+    <string name="string_tips">Apakah kamu mau memberi tips?</string>
+</resources>
